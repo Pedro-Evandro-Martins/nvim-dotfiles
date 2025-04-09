@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.colorscheme.vim-moonfly-colors" },
   { import = "astrocommunity.colorscheme.hybrid-nvim" },
   { import = "astrocommunity.editing-support.conform-nvim" },
+  { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   -- ... import any community contributed plugins here
 
 }
